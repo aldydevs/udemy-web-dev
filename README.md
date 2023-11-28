@@ -2,3 +2,4 @@
 ## Developed by Aldy Rizky Putra
 ### Technology Used :
 - HTML
+- CSS
